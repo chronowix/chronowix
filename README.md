@@ -1,4 +1,4 @@
-- IT student in a coop training course as a Data Analyst based in France 🇫🇷 
+- IT student based in France 🇫🇷 
 - Interested in software/application dev, cybersecurity
 - Python enthusiastic but willing to learn now things!
 
