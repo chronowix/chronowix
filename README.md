@@ -113,7 +113,7 @@ Fullstack developer mainly working with **Python** and **PHP**, curious and moti
 <table>
   <tr>
     <td width="70"><img src="https://www.google.com/s2/favicons?domain=supdevinci.fr&sz=128" width="40" /></td>
-    <td><b>Bachelor's in Software Development</b> — Sup de Vinci, Chantepie <i>(Oct 2025 – ongoing)</i></td>
+    <td><b>Bachelor's in Software Development</b> — Sup de Vinci, Chantepie <i>(Oct 2025 – Sept 2026)</i></td>
   </tr>
   <tr>
     <td width="70"><img src="https://www.google.com/s2/favicons?domain=esna.bzh&sz=128" width="40" /></td>
