@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Location-St--Malo%20%2F%20Rennes%2C%20France-informational?style=for-the-badge" />
 </p>
 <p align="left">
-  🎓 Bachelor's in Software Development @ Sup de Vinci &nbsp;|&nbsp; 💼 Looking for a full-time role starting <b>September 2026</b>
+  🎓 Recently graduated in a Bachelor's in Software Development @ Sup de Vinci &nbsp;|&nbsp; 💼 Looking for a full-time role starting <b>September 2026</b>
 </p>
 
 ---
